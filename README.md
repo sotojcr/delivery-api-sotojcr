@@ -1,2 +1,2 @@
-# delivery-api-thiagopinotti
+# delivery-api-sotojcr
 Projedo do Curso de Arquitetura de sistemas QualificaSP
